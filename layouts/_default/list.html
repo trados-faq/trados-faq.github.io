@@ -1,0 +1,15 @@
+{{ define "main" }}
+    {{ .Content }}
+    <details id="toc"  style="cursor: pointer">
+        <summary>Table des matières (cliquer pour plier/déplier)</summary>
+        <ul>
+            {{ range .Pages }}
+            <li>{{ partial "toc-item.html" . }}</li>
+            {{ end }}
+        </ul>
+    </details>
+    {{ range .Pages }}
+        {{ partial "list-item.html" . }}
+        <a href="#toc">Retour à la table des matières</a>
+    {{ end }}
+{{ end }}

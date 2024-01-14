@@ -1,0 +1,22 @@
+{{ define "main" }}
+<article class="article h-entry" itemprop="mainEntity" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="title-container">
+        <h1 class="article-title p-name" itemprop="name">{{ .Title }}</h1>
+        {{ if .Params.Headline }}
+        <b><i itemprop="headline" class="article-headline text-lg p-summary">
+            {{ .Params.Headline }}
+        </i></b>
+        {{ end }}
+        <div class="flex justify-between items-center">
+        </div>
+    </div>
+
+    <div class="article-content e-content" itemprop="articleBody">
+        {{ .Content }}
+    </div>
+
+    {{ partial "taxonomy.html" . }}
+    {{ partial "references.html" . }}
+    <a href="/post">Retour aux FAQ</a>
+</article>
+{{ end }}

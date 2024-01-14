@@ -11,6 +11,12 @@ paginate = 10
 pygmentsCodefences = true
 pygmentsStyle = "native"
 
+#[markup]
+#    [markup.tableOfContents]
+#        endLevel = 3
+#        ordered = false
+#        startLevel = 2
+
 # Taxonomies (only tags and categories are supported out of the box but you can
 # add more)
 [taxonomies]
@@ -38,15 +44,14 @@ weight = -120
 [params]
 # Site description. Individual pages can have descriptions too but if
 # missing it will fallback to that one.
-description = """The homepage of Astatine. This website is a demo the of the \
-    Hugo theme Astatine."""
+description = """FAQ Trados"""
 # Author of the site
-authorName = "Jack Harkness"
+authorName = "C.J."
 # Main image for the author. This will be the default image for SEO.
-[params.imgname]
-name = "img/main.jpg"
+#[params.imgname]
+#name = "img/main.jpg"
 # Add an alt description for the image
-alt = "Profile picture"
+#alt = "Profile picture"
 
 # Indicate if you host Katex yourself. Defaults to using the CDN KaTex.
 # hostedKaTex = false
