@@ -2,8 +2,7 @@
 title: "Quand j'ouvre ma mémoire de traduction, elle est vide et n'affiche que “(Aucune unité de traduction à afficher.)”. Comment faire pour la remplir ?"
 date: "2023-12-12"
 tags:
-- Tag
-- Un autre tag
+- Mémoire de traduction
 ---
 
 Voir les gifs créés à cet effet dans les ressources utiles.

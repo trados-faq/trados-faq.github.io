@@ -2,7 +2,8 @@
 title: "Quand je veux enregistrer mon fichier au format bilingue, je n'ai aucune fenêtre contextuelle qui s'ouvre."
 date: "2023-12-12"
 tags:
-- Tag
+- Enregistrer
+- Bilingue
 ---
 
 Ça signifie que Trados a déjà sélectionné un emplacement pour votre traduction et créé le fichier bilingue SDLXLIFF.

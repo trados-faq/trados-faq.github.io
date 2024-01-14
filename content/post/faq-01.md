@@ -2,7 +2,7 @@
 title: "Où faut-il aller pour créer une mémoire de traduction ?"
 date: "2023-12-12"
 tags:
-  - Tag
+  - Mémoire de traduction
 ---
 
 Si vous avez lancé la traduction d'un document seul, c'est dans la fenêtre contextuelle qui vous demande de choisir les langues source et cible. Y a un petit tableau et en haut à droite "Créer une nouvelle mémoire..."

@@ -2,7 +2,7 @@
 title: "Quand je veux choisir ou créer ma mémoire de traduction, Trados me propose des mémoires d'anciens exercices, mais elles sont grisées et je ne peux pas les supprimer. Que dois-je faire ?"
 date: "2023-12-12"
 tags:
-  - Tag
+- Mémoire de traduction
 ---
 
 Quand cela arrive, c'est que les mémoires détectées ne possèdent pas les mêmes paires de langues que le projet ou la traduction en cours. Il n'est pas nécessaire de faire quoi que ce soit si on ne souhaite pas les utiliser, elles ne seront pas reliées au projet.
