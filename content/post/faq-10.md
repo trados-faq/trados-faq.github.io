@@ -6,4 +6,4 @@ tags:
 - Bilingue
 ---
 
-Il faut aller dans "Fichier -> Enregistrer" ou bien dans "Fichier -> Enregistrer sous", et ça me permet de créer un fichier au format SDLXLIFF qui contient ma traduction (source, cible, informations sur le statut des segments).
+Il faut aller dans `"Fichier -> Enregistrer"` ou bien dans `"Fichier -> Enregistrer sous"`, et ça me permet de créer un fichier au format `SDLXLIFF` qui contient ma traduction (source, cible, informations sur le statut des segments).

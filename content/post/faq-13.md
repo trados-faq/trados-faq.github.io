@@ -5,7 +5,12 @@ tags:
 - Mémoire de traduction
 ---
 
-Quand cela arrive, c'est que les mémoires détectées ne possèdent pas les mêmes paires de langues que le projet ou la traduction en cours. Il n'est pas nécessaire de faire quoi que ce soit si on ne souhaite pas les utiliser, elles ne seront pas reliées au projet.
-La mémoire de traduction que je veux utiliser pour mon projet est grisées et je ne peux pas la sélectionner. Pourquoi ?
-La mémoire détectée ne possède pas les mêmes paires de langues que le projet ou la traduction en cours. Il faut soit changer les langues du projet pour qu'elles correspondent à la mémoire, soit utiliser ou créer une autre mémoire de traduction qui soit compatible.
+Quand cela arrive, c'est que les mémoires détectées ne possèdent pas les mêmes paires de langues que le projet ou la traduction en cours. 
+Il n'est pas nécessaire de faire quoi que ce soit si on ne souhaite pas les utiliser, elles ne seront pas reliées au projet.
+
+La mémoire de traduction que je veux utiliser pour mon projet est grisées et je ne peux pas la sélectionner. 
+Pourquoi ?
+
+La mémoire détectée ne possède pas les mêmes paires de langues que le projet ou la traduction en cours. 
+Il faut soit changer les langues du projet pour qu'elles correspondent à la mémoire, soit utiliser ou créer une autre mémoire de traduction qui soit compatible.
 

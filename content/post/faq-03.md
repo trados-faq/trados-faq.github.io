@@ -5,4 +5,5 @@ tags:
   - Mémoire de traduction
 ---
 
-Oui. Vous pouvez créer une mémoire de traduction en allant dans "Paramètres de projet > Langues > Touts les paires de langues"
+Oui. 
+Vous pouvez créer une mémoire de traduction en allant dans `"Paramètres de projet > Langues > Touts les paires de langues"`

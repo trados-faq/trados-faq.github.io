@@ -6,4 +6,4 @@ tags:
 - SDLXLIFF
 ---
 
-Vous avez sûrement cliqué sur "Enregistrer la cible sous" au lieu de "Enregistrer sous".
+Vous avez sûrement cliqué sur `"Enregistrer la cible sous"` au lieu de `"Enregistrer sous"`.

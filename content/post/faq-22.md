@@ -5,4 +5,6 @@ tags:
 - Mémoire de traduction
 ---
 
-Cela signifie que vous avez créé une mémoire de traduction lors de l'exercice précédent dans la même série d'exercices. Il s'agit donc de la mémoire de traduction créée à l'exercice juste au-dessus dans les consignes. Il ne faut pas ajouter les mémoires de traduction des exercices des semaines précédentes.
+Cela signifie que vous avez créé une mémoire de traduction lors de l'exercice précédent dans la même série d'exercices. 
+Il s'agit donc de la mémoire de traduction créée à l'exercice juste au-dessus dans les consignes. 
+Il ne faut pas ajouter les mémoires de traduction des exercices des semaines précédentes.

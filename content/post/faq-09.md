@@ -5,5 +5,7 @@ tags:
 - QuickPlace
 ---
 
-Il est possible que vous ayez cliqué à un endroit de la fenêtre où il ne peut pas s'activer. Vérifiez que vous êtes bien dans le segment cible et que vous cliquez à l'endroit où vous comptez l'insérer. Parfois il faut faire plusieurs essais, c'est un coup à prendre.
+Il est possible que vous ayez cliqué à un endroit de la fenêtre où il ne peut pas s'activer. 
+Vérifiez que vous êtes bien dans le segment cible et que vous cliquez à l'endroit où vous comptez l'insérer. 
+Parfois il faut faire plusieurs essais, c'est un coup à prendre.
 

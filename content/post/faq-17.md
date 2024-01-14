@@ -6,4 +6,5 @@ tags:
 - Enregistrer
 ---
 
-Ça doit vouloir dire qu'il a déjà été enregistré automatiquement. Vous pouvez cliquer sur "Enregistrer sous" pour pouvoir le renommer et l'enregistrer au bon endroit.
+Ça doit vouloir dire qu'il a déjà été enregistré automatiquement. 
+Vous pouvez cliquer sur `"Enregistrer sous"` pour pouvoir le renommer et l'enregistrer au bon endroit.

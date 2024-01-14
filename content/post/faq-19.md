@@ -5,4 +5,6 @@ tags:
 - Mémoire de traduction
 ---
 
-Il faut aller l'affichage "Mémoires de traduction" en bas à gauche et l'ouvrir en cliquant sur "Ouvrir". Ensuite je regarde si elle contient bien les nouveaux segments. Parfois il faut défiler à la page suivante dans la barre de tâches pour voir les derniers segments ajoutés dans la mémoire.
+Il faut aller l'affichage `"Mémoires de traduction"` en bas à gauche et l'ouvrir en cliquant sur `"Ouvrir"`. 
+Ensuite je regarde si elle contient bien les nouveaux segments. 
+Parfois il faut défiler à la page suivante dans la barre de tâches pour voir les derniers segments ajoutés dans la mémoire.

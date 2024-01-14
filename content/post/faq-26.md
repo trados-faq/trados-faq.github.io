@@ -6,4 +6,4 @@ tags:
 - Navigation
 ---
 
-Dans la barre des tâches, vous avez une section "Navigation" et une section "Pagination" qui vous permettent de gérer le nombre de segments à afficher par page et de naviguer entre elles.
+Dans la barre des tâches, vous avez une section `"Navigation"` et une section `"Pagination"` qui vous permettent de gérer le nombre de segments à afficher par page et de naviguer entre elles.
