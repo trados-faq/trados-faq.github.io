@@ -1,5 +1,6 @@
 backend:
-  name: github
+  name: git-gateway
+#  name: github
 #  name: test-repo
   repo: trados-faq/trados-faq.github.io
   # optional, defaults to master
