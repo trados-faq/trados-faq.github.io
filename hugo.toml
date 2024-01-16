@@ -58,7 +58,7 @@ authorName = "C.J."
 # host = "mastodon.social"
 
 # Enable link to feed in footer
-blogrss = true
+faqrss = true
 
 # Enable pingback and webmention via webmention.io
 # webmention = "hugocisneros.com"
