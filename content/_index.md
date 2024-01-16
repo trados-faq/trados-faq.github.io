@@ -1,1 +1,1 @@
-[Liste des FAQ](/post)
+[Liste des FAQ](/faq)
