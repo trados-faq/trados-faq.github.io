@@ -25,7 +25,7 @@ page = "/:slug/"
 # This links to content within the content/post/ folder
 [[menu.main]]
 name = "Faq"
-url = "/post/"
+url = "/faq/"
 weight = -150
 
 # Make the tags and categories pages accessible directly from the navbar.
