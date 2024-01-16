@@ -1,0 +1,11 @@
+[footerRSS]
+other = "FAQ"
+
+[categories]
+other = "Catégories"
+
+[tags]
+other = "Tags"
+
+[errorMessage]
+other = "Page non trouvée."
