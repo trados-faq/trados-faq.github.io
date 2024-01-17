@@ -24,6 +24,10 @@
                 text-neutral-800 dark:text-neutral-400 inline-block list-none">
       <span class="ml-2">© {{ .Site.Params.authorName}} {{ now.Format "2006" }}</span>
     </li>
+    <li class="ml-2 first:before:content-none before:content-['•']
+                text-neutral-800 dark:text-neutral-400 inline-block list-none">
+      <span class="ml-2"><a href="/cat">😸</a></span>
+    </li>
   </ul>
 </footer>
 {{ partial "extra_js.html" . }}
