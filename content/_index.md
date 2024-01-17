@@ -1,1 +1,1 @@
-[Liste des FAQ](/faq)
+[Liste des FAQ](/faq) ou [Liste des tags](/tags) 
